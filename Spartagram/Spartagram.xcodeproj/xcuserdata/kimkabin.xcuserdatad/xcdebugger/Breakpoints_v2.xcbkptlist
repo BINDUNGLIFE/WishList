@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BFA1AB09-FB0D-4009-96AC-4AD683A3736F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B0BF3DE-0528-43E9-9B63-03A54694A818"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spartagram/ProfileDesignViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "setupViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83204464-3A49-4ED5-A9F2-44B5B2AAF452"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spartagram/ProfileDesignViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "ProfileDesignViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "83204464-3A49-4ED5-A9F2-44B5B2AAF452 - c1b17fdbdd7faabc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spartagram.ProfileDesignViewController.setupConstraints() -&gt; ()"
+                  moduleName = "Spartagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimkabin/Desktop/SPARTACODING/Spartagram/Spartagram/ProfileDesignViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "13448">
+               </Location>
+               <Location
+                  uuid = "83204464-3A49-4ED5-A9F2-44B5B2AAF452 - acad6b12a875e5d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spartagram.ProfileDesignViewController.collectionView(_: __C.UICollectionView, numberOfItemsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Spartagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimkabin/Desktop/SPARTACODING/Spartagram/Spartagram/ProfileDesignViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
